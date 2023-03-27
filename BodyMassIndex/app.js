@@ -15,7 +15,6 @@ BMI: 58 / (1,59)*(1,59) = 22,9 kg/m2
     Values between 40 kg/m2 and higher = 3rd Degree Obsesity
 */
 
-
 calculationOfBodyMassIndex();
 
 function calculationOfBodyMassIndex() {
