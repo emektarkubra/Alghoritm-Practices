@@ -2,7 +2,6 @@
 
 negativeOrPositive();
 
-
 function negativeOrPositive() {
 
     let number = prompt("Please, enter the number..");
